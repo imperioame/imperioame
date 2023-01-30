@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-![Github-Profile-Banner](./media/GitHub-Profile-Banner-half.gif "A simple 3D animation to captivate your attention")
+![Github-Profile-Banner](./media/GitHub-Profile-Banner%20-%20third.gif "A simple 3D animation to captivate your attention")
 </div>
 
 Hi, I'm **Julián Amé**,
