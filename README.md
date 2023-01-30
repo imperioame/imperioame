@@ -4,6 +4,11 @@
 # [The Imperio Strikes Back](# 'See what i did there? Imperio is my username 😅')
 </div>
 
+<div align='center'>
+
+![Github-Profile-Banner](./media/GitHub-Profile-Banner-half.gif "A simple 3D animation to captivate your attention")
+</div>
+
 Hi, I'm **Julián Amé**,
 
 I cannot define _me_, I'm the object to be defined 🤖 <br>
