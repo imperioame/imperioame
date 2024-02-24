@@ -9,7 +9,7 @@
 ![Github-Profile-Banner](./media/GitHub-Profile-Banner%20-%20third.gif "A simple 3D animation to captivate your attention")
 </div>
 
-Hi, I'm **Julián Amé**,
+Hi, I'm **Mario Amé**,
 
 I cannot define _me_, I'm the object to be defined 🤖 <br>
 What I can tell you, is what I do. And that is:
