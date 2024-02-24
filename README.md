@@ -31,7 +31,7 @@ I have a little bit more to show you. If you're interested, check:
 
 | <div align='center'>My Webpage</div> | <div align='center'>My Media</div> |
 | ------ | ----------- |
-| <div align='center'>[JulianMMAme.com.ar](https://julianmmame.com.ar/)</div>   | <div align='center'>[Linktree](https://linktr.ee/imperioame)</div> |
+| <div align='center'>[JulianMMAme.com.ar](https://julianmmame.com.ar/)</div>   | <div align='center'>[Links](https://media.julianmmame.com.ar/)</div> |
 
 </div>
 
