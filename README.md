@@ -31,13 +31,13 @@ I have a little bit more to show you. If you're interested, check:
 
 | <div align='center'>My Webpage</div> | <div align='center'>My Media</div> |
 | ------ | ----------- |
-| <div align='center'>[JulianMMAme.com.ar](https://julianmmame.com.ar/)</div>   | <div align='center'>[Links](https://media.julianmmame.com.ar/)</div> |
+| <div align='center'>[MarioA.me](http://marioa.me/)</div>   | <div align='center'>[Links](https://media.marioa.me/)</div> |
 
 </div>
 
 
 Feel free to say hi at: <br>
-github@julianmmame.com.ar
+[Hello@marioa.me](mailto:Hello@marioa.me)
 
 <div align='center'>
 
